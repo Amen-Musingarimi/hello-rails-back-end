@@ -22,11 +22,11 @@
 
 # :abc: Hello world API <a name="about-project"></a>
 
-> This repository provides a Rails backend that functions as an API for generating random greeting messages.
+This repository provides a Rails backend that functions as an API for generating random greeting messages.
 
 ### Frontend Repository
 
-- <a href="https://github.com/zewdu444/hello-react-front-end">React Link</a>
+- <a href="https://github.com/Amen-Musingarimi/hello-react-front-end">React Link</a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -35,13 +35,9 @@
 - <a href="https://www.ruby-lang.org/es/">ROR</a>
 - <a href="https://www.postgresql.org/">Postgresql</a>
 
-
-
 ### Key Features <a name="key-features"></a>
 
 - [x] Random greeting generator API
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,7 +59,7 @@ Clone this repository to your desired folder:
 Example command:
 
 ```sh
-  git clonehttps://github.com/zewdu444/hello-rails-back-end.git
+  git clone https://github.com/Amen-Musingarimi/hello-rails-back-end
   cd hello-rails-back-end
 
 ```
@@ -80,32 +76,32 @@ Example command:
 
 ### Usage
 
-
 ### API
+
 to get random greetings from the API use the following link:
+
 ```sh
  http://127.0.0.1:3000/api/v1/greetings
 
 ```
+
 ### Frontend
+
 to get random greetings from the frontend follow the follwing steps:
+
 ```sh
- git clone https://github.com/zewdu444/hello-react-front-end.git
+ git clone https://github.com/Amen-Musingarimi/hello-react-front-end
  cd hello-react-front-end
  npm install
  npm start
 ```
 
-
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Zewdu Erkyhun**
+👤 **AmenMusingarimi**
 
-- GitHub: [@zewdu444](https://github.com/zewdu444)
-- Twitter: [@zewdu444](https://twitter.com/zewdu444)
-- LinkedIn: [zewdu-anley](https://www.linkedin.com/in/zewdu-anley/)
-
-
+- GitHub: [@githubhandle](https://github.com/Amen-Musingarimi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/atmusingarimi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,14 +109,13 @@ to get random greetings from the frontend follow the follwing steps:
 
 - Add jwt authentication
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/zewdu444/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/Amen-Musingarimi/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
